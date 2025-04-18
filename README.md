@@ -1,8 +1,4 @@
-İşte projen için uygun, sade ve bilgilendirici bir `README.md` dosyası. `screen.png` dosyasını da içine koyacağını varsayarak yerleştirdim:
 
----
-
-```markdown
 # 🧬 NGS Varyant Analiz Aracı (VCF to Excel)
 
 Bu uygulama, **QIAGEN Clinical Insight** gibi araçlardan çıkan `.vcf` formatındaki varyant dosyalarını seçip, filtreleyip, Excel çıktısı halinde **otomatik raporlayan** bir grafik arayüz (GUI) sunar.
@@ -70,4 +66,3 @@ python tumvaryantlar.py
 
 Bu proje MIT lisansı ile sunulmuştur.  
 Herhangi bir kurum veya laboratuvar kullanımı için uygundur.
-```
